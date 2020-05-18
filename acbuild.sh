@@ -43,7 +43,6 @@ DEBIAN_SID_DEPS_BASE="ca-certificates \
 	golang-go \
 	cpio \
 	squashfs-tools \
-	realpath \
 	autoconf \
 	file \
 	xz-utils \
